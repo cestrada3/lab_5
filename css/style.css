@@ -1,0 +1,39 @@
+h1 {
+	color: #5de6cda2;
+	font-size: 60px;
+	text-align: center
+  }
+  
+  td, th {
+	border: 1px solid rgb(109, 157, 38);
+	padding: 8px;
+	text-align: center;
+	color: rgba(245, 59, 189, 0.853);
+	font-weight: bold;
+  }
+  
+  th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	background-color: #c7ad2c;
+	color: rgb(189, 195, 27);
+  }
+  
+  img {
+	width: 200px;
+  }
+	  
+  body {
+	background-image: url("../pics/space.png");
+	height: 100%;
+	background-position: center;
+	background-size: cover;
+  }
+  
+  table {
+	text-align:center; 
+	margin-left:auto; 
+	margin-right:auto; 
+	background-color: rgba(86, 212, 28, 0.638);
+  }
+  

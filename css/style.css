@@ -1,0 +1,72 @@
+body{
+	background-color: palevioletred;
+	background-image: url("../pics/space.png");
+}
+h1{
+	font-family: "Lucida Handwriting", Cursive;
+	font-size: 65px;
+	color: black;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	text-decoration: underline;
+	text-underline-offset: 6px;
+}
+table{
+	font-family: "Times New Roman", Arial;
+	font-size: 20px;
+	border-spacing: 22px;
+	table-layout: fixed;
+	width: 100%;
+	max-width: 1000px;
+	color: white;
+	position: relative;
+	padding: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.mercury{
+	background-color:rgb(138, 20, 140)
+}
+
+.earth{
+	background-color:rgb(138, 20, 140)
+}
+
+.saturn{
+	background-color:rgb(138, 20, 140)
+}
+
+.jupiter{
+	background-color:rgb(138, 20, 140)
+}
+
+.lcol{
+	color: black;
+}
+
+.image{
+	height: 250px;
+	
+}
+
+th{
+	text-align: center;
+	table-layout: fixed;
+	height: 70px;
+	border-radius: 4px;
+	color: white;
+}
+
+td{
+	text-align: center;
+	table-layout: fixed;
+	height: 70px;
+	border-radius: 4px;
+}
+
+.super{
+	font-size: 70%;
+	vertical-align: 6px;
+}

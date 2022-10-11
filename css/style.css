@@ -8,15 +8,15 @@ h1 {
 	border: 1px solid rgb(109, 157, 38);
 	padding: 8px;
 	text-align: center;
-	color: rgba(245, 59, 189, 0.853);
+	color: rgba(14, 4, 11, 0.853);
 	font-weight: bold;
   }
   
   th {
 	padding-top: 12px;
 	padding-bottom: 12px;
-	background-color: #c7ad2c;
-	color: rgb(189, 195, 27);
+	background-color: #3d0b48;
+	color: rgb(171, 90, 206);
   }
   
   img {

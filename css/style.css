@@ -5,7 +5,7 @@ h1 {
   }
   
   td, th {
-	border: 1px solid rgb(109, 157, 38);
+	border: 1px solid rgba(44, 50, 47, 0.76);
 	padding: 8px;
 	text-align: center;
 	color: rgba(14, 4, 11, 0.853);
@@ -16,7 +16,7 @@ h1 {
 	padding-top: 12px;
 	padding-bottom: 12px;
 	background-color: #3d0b48;
-	color: rgb(171, 90, 206);
+	color:rgba(122, 136, 129, 0.76);
   }
   
   img {
@@ -34,6 +34,6 @@ h1 {
 	text-align:center; 
 	margin-left:auto; 
 	margin-right:auto; 
-	background-color: rgba(86, 212, 28, 0.638);
+	background-color: rgba(122, 136, 129, 0.76);
   }
   
